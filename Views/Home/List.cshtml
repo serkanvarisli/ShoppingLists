@@ -1,0 +1,134 @@
+﻿@using ShoppingList.ViewModel
+@model List<UserProductViewModel>
+
+@section nav{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">LİSTELERİM</a>
+    </li>
+        <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddProduct" asp-route-listId="@ViewBag.ListId" id="addPruductNav">ÜRÜN EKLE</a>
+        </li>
+}
+@section user {
+    <span class="dropdown-item-text text text-black-50">@TempData["username"]</span>
+    }
+
+    <div class="row">
+    <div class=col>
+        <br />
+        <h2 class="text">
+            @ViewBag.ListName Listesi
+        </h2>
+    </div>
+    <div id="arama">
+        <div class="col">
+<form asp-action="List" asp-controller="Home" asp-route-listId="@ViewBag.ListId" class="form-inline justify-content-end">
+    <div>
+        
+        <select name="categoryFilter" asp-items="@ViewBag.Categories">
+
+                <option value="all">Tüm Kategoriler</option>
+            @foreach (var item in Model)
+            {
+                
+            }
+        </select>
+
+         <button type="button" class="btn form-control btn-outline-secondary btn-sm" style="margin-bottom:5px; margin-top:2.5px;margin-left:2.5px;" id="filterButton">Filtrele</button>
+    </div>
+</form>
+
+<form asp-action="List" asp-controller="Home" asp-route-listId="@ViewBag.ListId" class="form-inline justify-content-end">
+    
+    <div class="input-group">
+        <input type="text" name="p" class="form-control" placeholder="Ürün Ara.." />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-secondary">Ara</button>
+        </div>
+    </div>
+</form>
+    </div>
+    </div>
+</div>
+<br />
+<form>
+    <div class="row">  
+        <div class="col">
+
+            <a asp-controller="Home" asp-action="AddProduct" asp-route-listId="@ViewBag.ListId">
+                        <button type="button" class="btn btn-success" id="addProduct">Ürün Ekle</button>
+                    </a>
+        </div>
+        <div class="col">
+            <form asp-action="StartShopping" asp-controller="Home" method="post">
+            <button type="button" class="btn btn-primary float-right" id="startShopping">ALIŞVERİŞE ÇIKIYORUM</button>
+            </form>
+            <form asp-action ="EndShopping" asp-controller="Home" method="post">
+                <a onclick="return confirm('Alışveriş Tamamlansın Mı ?')">
+                    <button type="submit" class="btn btn-secondary float-right" id="endShopping" style="display:none;">ALIVERİŞ TAMAMLANDI</button>
+                </a>
+            </form>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            
+        </div>
+    </div>
+    
+        <center><h3>ÜRÜNLER</h3></center>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-2">
+                <div class="card" style="margin:5px">
+                    <div class="card-body ">
+                        <center>
+                            <b>
+                                <p class="card-text " style="font-size:15px;">@item.CategoryName</p>
+                            </b>
+                        </center>
+                        <img class="card-img-top" src="/images/products/@item.ProductImage" alt="Card image cap">
+                        <center>
+                            <h5 class="card-title" style="font-size:15px">@item.ProductName</h5>
+                            <div class="product">
+                                <div class="bought" style="display:none;">
+                                    <span>Aldım </span><input type="checkbox" name="selectedItems" value="@item.ProductDetailId" />
+                                </div>
+                            </div>
+                            <p></p>
+                            <a asp-action="ProductDetail" asp-controller="Home" asp-route-productDetailId="@item.ProductDetailId">
+                                <button type="button" class="btn btn-primary beforeShopping">Ürün Detayı</button>
+                            </a>
+                            <button type="button" class="btn btn-secondary afterShopping detailbutton" style="display:none;">Ürün Detayı</button>
+                            <button type="button" class="btn btn-danger kapat " style="display:none;" >Kapat</button>
+                            <p></p>
+                            <a asp-action="DeleteProduct" asp-controller="Home" asp-route-productDetailId="@item.ProductDetailId" onclick="return confirm('@item.ProductName adlı ürünü listeden çıkarmak istiyor musunuz?')">
+                            <button type="button" class="btn btn-danger removeProduct">Ürünü Çıkar</button>
+							</a>
+                            <div class="container hiddendetails" style="display:none;">
+                                <p>
+                                    <h6>Ürün Detayları</h6>
+                                    <u>Markası</u><br>
+                                    @item.ProductBrand
+                                </p>
+                                <p>
+                                    <u>Miktarı:</u><br>
+                                    @item.ProductQuantity
+                                </p>
+                                <p>
+                                    <u>Ürün Detayı:</u><br>
+                                    @item.ProductDetail1
+                                </p>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</form>
+<br />
+<br />
+<br />
+<script src="~/js/list.js" asp-append-version="true"></script>

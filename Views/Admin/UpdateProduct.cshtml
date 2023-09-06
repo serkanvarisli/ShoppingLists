@@ -1,0 +1,42 @@
+﻿@using ShoppingList.ViewModel;
+@model AdminAddFileViewModel;
+@{
+    Layout = "_AdminLayout"; // Bu satır sayesinde layout kullanılmayacak.
+}
+<br />
+<div class="d-flex justify-content-center">
+    <h2>Ürün Güncelle</h2>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-2">
+            <div class="card border-3">
+                <img class="card-img-top" src="/images/products/@Model.ProductImage" alt="Card image cap">
+                <div class="card-body">
+                    <h4 class="card-title">
+                        @Model.ProductName
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+            <form method="post" asp-action="UpdateProduct" asp-controller="Admin" enctype="multipart/form-data">
+    <input type="hidden" asp-for="ProductId" />
+
+	@*Ürün Adı: <p>@Model.ProductName</p>*@
+    <b>Ürün Resmi:
+
+    </b><input type="file" @*asp-for="ProductImage"*@ name="fileUpload" class="form-control" accept=".png,.jpeg,.jpg" />
+    <br />
+    <b>Ürün Adı:</b><input type="text" asp-for="ProductName" class="form-control" />
+    <br />
+    <b>Kategori:</b>
+    <select class="form-control" asp-for="CategoryId" asp-items="@ViewBag.Categories">
+        <option value="">Seçiniz</option>
+    </select>
+	<br />
+    <button type="submit" class="btn btn-success form-control">Kaydet</button>
+
+</form>

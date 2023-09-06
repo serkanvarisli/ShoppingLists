@@ -1,0 +1,49 @@
+﻿@using ShoppingList.ViewModel
+@model List<UserListsViewModel>
+
+@section nav {
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">LİSTELERİM</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AddList">YENİ LİSTE OLUŞTUR</a>
+    </li>
+}
+
+<div class="container">
+<div class="row">
+    <div class="col">
+        <a asp-controller="Home" asp-action="AddList">
+            <button type="button" class="btn btn-success" id="newList" />Yeni Liste Oluştur </button>
+        </a>
+    </div>
+</div>
+</div>
+<center><h2>LİSTELERİM</h2></center>
+<div class="row d-flex justify-content-center">
+    @foreach (var list in Model)
+    {       
+        <div class="col-md-4">
+            <br>
+        <div class="card border-5" style="width: 22rem;">
+            <center>
+
+                    <div class="card-body ">
+                        <h5 class="card-title">@list.ListName</h5>
+                        <a asp-action="list" asp-controller="Home" asp-route-listId="@list.ListId" class="btn btn-primary">Listeye gitmek için tıklayın</a>
+                        <p></p>
+                        <a asp-action="DeleteList" asp-controller="Home" asp-route-ListId="@list.ListId" onclick="return confirm('@list.ListName adlı listeyi gerçekten silmek istiyor musunuz?')">
+                            <button class="btn btn-danger">Listeyi Sil</button>
+                        </a>
+                    </div>
+            </center>
+        </div>
+        </div>
+       
+    }
+    @section user {
+        <span class="dropdown-item-text text text-black-50">@TempData["username"]</span>
+    }
+</div>
+<br />
+<br />

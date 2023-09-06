@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "_AdminLayout"; // Bu satır sayesinde layout kullanılmayacak.
+}
+<link rel="stylesheet" href="~/css/adminwelcome.css" />
+<header class="bg-dark bg-opacity-75 py-5">
+    <div class="container px-5">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-lg-6">
+                <div class="text-center my-5">
+                    <h1 class="display-5 fw-bolder text-white mb-2">Shopping List Admin Paneline Hoşgeldiniz</h1>
+                    <p class="lead text-white-50 mb-4">Hoşgeldiniz. Bu panelde ürünleri ve kategorileri görüntüleyebileceksiniz. Ürünler ve kategoriler ekleyip güncelleyebileceksiniz. İsterseniz ürün ve kategori silebileceksiniz. </p>
+                    <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Başlayın</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Features section-->
+<section class="py-5 border-bottom" id="features">
+    <div class="container px-5 my-5">
+        <div class="row gx-5">
+            <div class="col-lg-4 mb-5 mb-lg-0">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                <h2 class="h4 fw-bolder">Ürünler</h2>
+                <p>Ürün ekleme, ürün güncelleme ve ürün silme işlemleri</p>
+                <a class="text-decoration-none" asp-action="Product" asp-controller="Admin">
+                    Ürünler Sayfasına Gidin
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                <h2 class="h4 fw-bolder">Kategoriler</h2>
+                <p>Kategori ekleme, kategori güncelleme ve kategori silme işlemleri</p>
+                <a class="text-decoration-none" asp-action="Category" asp-controller="Admin">
+                    Kategoriler Sayfasına Gidin
+                    <i class="bi bi-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

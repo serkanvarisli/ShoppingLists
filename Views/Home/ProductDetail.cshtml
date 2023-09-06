@@ -1,0 +1,61 @@
+﻿@model ProductDetail
+
+@section nav{
+	<li class="nav-item">
+		<a class="nav-link text-dark" asp-route-listId="@ViewBag.ListId" asp-controller="Home" asp-action="List">LİSTE</a>
+	</li>
+}
+
+@section user {
+	<span class="dropdown-item-text text text-black-50">@TempData["username"]</span>
+}
+
+<form method="post" asp-action="UpdateProductDetail" asp-controller="Home">
+	<input type="hidden" name="ProductDetailId" value="@Model.ProductDetailId">
+	<input type="hidden" name="ProductId" value="@Model.ProductId">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="contact-form">
+					<h2>Ürün Detayları</h2>
+					<div class="form-group">
+						<label class="control-label col-sm-2" for="fname">Ürün Adı: </label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" value="@Model.Product.ProductName" id="tb1"
+								readonly>
+						</div>
+					</div>
+					<div class="form-group">
+						<label class="control-label col-sm-2" for="lname">Marka:</label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" name="ProductBrand" value="@Model.ProductBrand"
+								id="tb2" readonly>
+						</div>
+					</div>
+					<div class="form-group">
+						<label class="control-label col-sm-2" for="email">Ürün Adedi: </label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control" name="ProductQuantity"
+								value="@Model.ProductQuantity" id="tb3" readonly>
+						</div>
+					</div>
+					<div class="form-group">
+						<label class="control-label col-sm-2" for="comment">Ürün Detayı:</label>
+						<div class="col-sm-10">
+							<textarea class="form-control" rows="5" id="tb4" name="ProductDetail1"
+								readonly>@Model.ProductDetail1</textarea>
+						</div>
+					</div>
+					<div class="form-group">
+						<div class="col-sm-offset-2 col-sm-10 d-flex justify-content-center">
+							<button type="button" class="btn btn-secondary" id="editproduct">Düzenle</button>
+							<button type="submit" class="btn btn-warning" id="saveproduct" hidden>Kaydet</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</form>
+<script src="~/js/product.js" asp-append-version="true"></script>

@@ -1,0 +1,72 @@
+﻿@using ShoppingList.ViewModel;
+@model List<AdminAddFileViewModel>
+@{
+    Layout = "_AdminLayout"; // Bu satır sayesinde layout kullanılmayacak.
+}
+<br />
+<div class="row">
+    <div class="col">
+        <br />
+        <a asp-action="AddProduct" asp-controller="Admin">
+            <button class="btn btn-success"> Ürün Ekle</button>
+        </a>
+    </div>
+    <div class=col>
+
+            <form asp-action="Product" asp-controller="Admin" method="get" class="form-inline justify-content-end">
+    <div>
+
+        <select name="categoryFilter" asp-items="@ViewBag.Categories">
+
+            <option value="all">Tüm Kategoriler</option>
+            @foreach (var item in Model)
+            {
+
+            }
+        </select>
+
+        <button type="submit" class="btn form-control btn-outline-secondary btn-sm" style="margin-bottom:5px; margin-top:2.5px;margin-left:2.5px;">Filtrele</button>
+    </div>
+</form>
+            <form asp-action="Product" asp-controller="Admin" method="get" class="form-inline justify-content-end">
+
+                <div class="input-group">
+                    <input type="text" name="p" class="form-control" placeholder="Ürün Ara.." />
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-secondary">Ara</button>
+                    </div>
+                </div>
+            </form>
+
+</div>
+
+</div>
+
+    <hr />
+
+    <center><p><h1>Ürünler</h1></p></center>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <input type="hidden" asp-for="@product.ProductId">
+        <div class="col-sm-2" style="padding:10px">
+                <div class="card border-4" >
+                <div class="card-body">
+                        <img class="card-img-top" src="/images/products/@product.ProductImage" alt="Card image cap">
+                    <center>
+                            <h5 class="card-title" style="font-size:15px" >@product.ProductName</h5>
+                            <p class="card-text" style="font-size:14px;">Kategori= @product.CategoryName</p>
+                            <a asp-action="UpdateProduct" asp-controller="Admin" asp-route-productId="@product.ProductId">
+                                <button class="btn btn-warning">Güncelle</button>
+                            </a>
+                            <br>
+                            <a asp-action="DeleteProduct" asp-controller="Admin" asp-route-productId="@product.ProductId" onclick="return confirm('@product.ProductName adlı ürünü gerçekten silmek istiyor musunuz?')">
+                                <button class="btn btn-danger">Sil</button>
+                            </a>
+                    </center>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+@TempData["hata"]

@@ -1,0 +1,35 @@
+﻿@model List<Category>
+
+@{
+    Layout = "_AdminLayout"; // Bu satır sayesinde layout kullanılmayacak.
+}
+<table class="table table-striped">
+    <h2>Kategoriler</h2>
+        <br />
+        <tr>
+            <th>Kategori Adı</th>
+        <th class="d-flex justify-content-end">
+            <a asp-action="AddCategory" asp-controller="Admin">
+                <button class="btn btn-success">&ensp; Kategori Ekle &ensp;</button>
+            </a>
+        </th>
+        </tr>
+	@foreach (var category in Model)
+    {
+            <tr>
+                <td>@category.CategoryName </td>
+                <td class="d-flex justify-content-end">
+                <a asp-action="UpdateCategory" asp-controller="Admin" asp-route-categoryId="@category.CategoryId">
+                    <button class="btn btn-warning">Güncelle</button>
+                </a> 
+
+                    &ensp;
+                <a asp-action="DeleteCategory" asp-controller="Admin" asp-route-categoryId="@category.CategoryId" onclick="return confirm('@category.CategoryName adlı kategoriyi gerçekten silmek istiyor musunuz?')">
+                    <button class="btn btn-danger">Sil</button>
+                </a>
+                </td>
+            </tr>
+    }
+
+</table>
+@TempData["ErrorMessage"]

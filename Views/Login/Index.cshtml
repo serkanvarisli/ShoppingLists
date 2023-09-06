@@ -1,0 +1,73 @@
+﻿@model User
+<link rel="stylesheet" href="~/css/login.css" />
+@{
+    Layout = "_LoginLayout";
+}
+
+@using (Html.BeginForm("Index", "Login", FormMethod.Post))
+{
+<div id="main-wrapper" class="container">
+    <div class="row justify-content-center">
+        <div class="col-xl-10">
+            <div class="card border-0">
+                <div class="card-body p-0">
+                    <div class="row no-gutters">
+                        <div class="col-lg-6">
+                            <div class="p-5">
+                                
+                                <div class="mb-5">
+                                    <h3 class="h4 font-weight-bold text-theme">GİRİŞ YAP</h3>
+                                </div>
+
+                                <h6 class="h5 mb-0">Hoşgeldiniz</h6>
+                                <p class="text-muted mt-2 mb-5"> </p>
+
+                                
+                                    <div class="form-group">
+                                        <label for="email"> Mail Adresi</label>
+                                        <input type="email" name="UserEmail" id="UserEmail" asp-for="UserEmail" class="form-control" title="Girin" required>
+                                    </div>
+                                    <div class="form-group mb-5">
+                                        <label for="password">Şifre</label>
+                                        <input type="password" name="Password" id="Password" asp-for="Password" class="form-control" title="Girin" required>
+                                        <span name="showText" id="showText" class="textShowPassword">Şifreyi Göster </span>
+                                        <input type="checkbox" name="showPassword" id="showPassword"  />
+                                    </div>
+                                    <button type="submit" class="btn btn-theme">Giriş Yap</button>
+                                    <br>
+                                    @TempData["ErrorMessage"]
+
+                            </div>
+                        </div>
+                        <div class="col-lg-6 d-none d-lg-inline-block">
+                            <div class="account-block rounded-right">
+                                <div class="overlay rounded-right"></div>
+                                <div class="account-testimonial">
+                                    <h4 class="text-white mb-4">Alışveriş Listeleriniz Burada</h4>
+                                    <p class="lead text-white">"Alışveriş listeleriniz sayesinde alacaklarınız unutulmayacak."</p>
+                                    <p>- Daha fazlası için giriş yapın-</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- end card-body -->
+            </div>
+            <!-- end card -->
+
+
+            <p class="text-muted text-center mt-3 mb-0">Hesabızın Yok Mu? Hemen<a asp-action="Register" asp-controller="Login" class="text-primary ml-1">Üye Olun</a></p>
+
+            <!-- end row -->
+
+        </div>
+        <!-- end col -->
+    </div>
+    <!-- Row -->
+</div>
+<br />
+<br />
+ }
+
+<script src="~/js/login.js" asp-append-version="true"></script>

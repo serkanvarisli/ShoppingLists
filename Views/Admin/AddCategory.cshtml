@@ -1,0 +1,18 @@
+﻿@model Category
+@{
+    Layout = "_AdminLayout"; // Bu satır sayesinde layout kullanılmayacak.
+}
+
+<form asp-action="AddCategory" method="post">
+	<h2>Yeni Kategori Oluştur</h2>
+	<div class="form-group">
+		<input type="hidden" asp-for="CategoryId" />
+		<br />
+		<input type="text" class="form-control" asp-for="CategoryName" placeholder="Kategori Adı Giriniz ..">
+	</div>
+	<div class="form-group">
+		<button type="submit" class="btn btn-success btn-block">Oluştur</button>
+	</div>
+	@TempData["ErrorMessage"]
+
+</form>

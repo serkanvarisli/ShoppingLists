@@ -1,0 +1,23 @@
+﻿@using ShoppingList.ViewModel
+@model UserListsViewModel
+
+@section nav {
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">LİSTELERİM</a>
+    </li>
+}
+
+@section user {
+    <span class="dropdown-item-text text text-black-50">@TempData["username"]</span>
+}
+
+<form asp-action="AddList" method="post">
+    <h2>Yeni Liste Oluştur</h2>
+    <div class="form-group">
+        <input type="hidden" name="UserId" value="@Model.UserId" />
+        <input type="text" class="form-control" name="ListName" placeholder="Liste Adı Giriniz ..">
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-success btn-block">Oluştur</button>
+    </div>
+</form>

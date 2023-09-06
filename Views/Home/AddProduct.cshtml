@@ -1,0 +1,117 @@
+﻿@using ShoppingList.ViewModel;
+@model List<ProductDetail>
+@section nav{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-route-listId="@ViewBag.ListId" asp-controller="Home" asp-action="List">LİSTE</a>
+    </li>
+}
+
+@section user {
+    <span class="dropdown-item-text text text-black-50">@TempData["username"]</span>
+}
+
+<br />
+
+<form asp-action="AddProduct" asp-controller="Home" method="get" class="form-inline justify-content-end">
+    <div>
+        <select name="categoryFilter" asp-items="@ViewBag.Categories">
+            <option value="all">Tümü</option>
+        </select>
+        <button type="submit" class="btn form-control btn-outline-secondary btn-sm"
+            style="margin-bottom:5px; margin-top:2.5px;margin-left:2.5px;">Filtrele</button>
+    </div>
+</form>
+
+<form asp-action="AddProduct" asp-controller="Home" method="get" class="form-inline justify-content-end">
+    <div class="input-group">
+        <input type="text" name="searchTerm" class="form-control" placeholder="Ürün Ara.." />
+        <div class="input-group-append">
+            <button type="submit" class="btn btn-secondary">Ara</button>
+        </div>
+    </div>
+</form>
+
+<div class="row">
+    <center>
+        <p>
+        <h1>Ürünler</h1>
+        </p>
+    </center>
+    <div class="row">
+
+        @*Tekrarlayan ürün sadece 1 kere görünecek*@
+        @{
+            var uniqueProductIds = new List<int>();
+        }
+        @foreach (var item in Model)
+        {
+            foreach (var product in ViewBag.Products)
+            {
+                if (!uniqueProductIds.Contains(product.ProductId))
+                {
+                    uniqueProductIds.Add(product.ProductId);
+                    <div class="col-sm-3" style="padding:10px">
+                        <div class="card border-3">
+                            <div class="card-body">
+                                <h4 class="card-text d-flex justify-content-center" style="font-size:14px;">
+                                    @product.Category.CategoryName
+                                </h4>
+                                <img class="card-img-top" src="/images/products/@product.ProductImage" alt="Card image cap">
+                                <center>
+                                    <form asp-action="AddProduct" asp-controller="Home" method="post">
+                                        <input type="text" value="@product.ProductId" name="ProductId" hidden>
+                                        <h5 class="card-title text-black">@product.ProductName</h5>
+                                        <br>
+                                        <input type="text" value="@item.ListId" name="ListId" hidden>
+                                        <input type="text" value="@item.UserId" name="UserId" hidden>
+                                        <div class="form-check">
+                                            <input class="form-check-input addProductDetailRadio" type="checkbox"
+                                                data-target="hiddenProductDetailContainer_@product.ProductId">
+                                            Ürün Detay Ekle (opsiyonel)
+                                        </div>
+                                        <div class="container hiddenProductDetailContainer"
+                                            id="hiddenProductDetailContainer_@product.ProductId" style="display:none;">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <div class="contact-form">
+                                                        <div class="form-group">
+                                                            <label class="control-label" for="lname">Marka:</label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" class="form-control" name="ProductBrand">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <label class="control-label" for="">Ürün Adedi: </label>
+                                                            <div class="col-sm-10">
+                                                                <input type="text" class="form-control" name="ProductQuantity">
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <label class="control-label " for="">Ürün Detayı:</label>
+                                                            <div class="col-sm-10">
+                                                                <textarea class="form-control" rows="5"
+                                                                    name="ProductDetail1"></textarea>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <br>
+                                        <button class="btn btn-primary">Seç</button>
+                                    </form>
+                                </center>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        }
+
+        <script src="~/js/addproduct.js" asp-append-version="true"></script>
+        <p></p>
+        <p></p>
+        <p></p>
+    </div>
+</div>
