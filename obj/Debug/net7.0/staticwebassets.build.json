@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rMaCGNxBefrE3GJrJFjZfLFpgHeRjhRt6hz1jCLxBYI=",
+  "Hash": "mnxo0nQY35s99hS8SM5Nfp4f8bglgVmB17giEIMd10U=",
   "Source": "ShoppingList",
   "BasePath": "_content/ShoppingList",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ShoppingList\\wwwroot",
       "Source": "ShoppingList",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ShoppingList.styles.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ShoppingList.styles.css",
       "SourceId": "ShoppingList",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "ShoppingList.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ShoppingList.styles.css"
+      "OriginalItemSpec": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ShoppingList.styles.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css",
       "SourceId": "ShoppingList",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "ShoppingList.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminlogin.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminlogin.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/adminlogin.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminlogin.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminpage.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminpage.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/adminpage.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminpage.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminwelcome.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminwelcome.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/adminwelcome.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminwelcome.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\login.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\login.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\register.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\register.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/register.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\site.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\favicon.ico",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\login\\register.jpg",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\login\\register.jpg",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/login/register.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login\\register.jpg"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\login\\shoppinglist.jpg",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\login\\shoppinglist.jpg",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/login/shoppinglist.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login\\shoppinglist.jpg"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\armchair.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\armchair.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/armchair.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\armchair.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\bookshelf.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\bookshelf.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/bookshelf.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\bookshelf.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\bread.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\bread.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/bread.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\bread.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\coffee-table.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\coffee-table.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/coffee-table.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\coffee-table.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\couch.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\couch.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/couch.png",
       "AssetKind": "All",
@@ -289,10 +289,27 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\couch.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\detergent.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\deodorant.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
+      "BasePath": "_content/ShoppingList",
+      "RelativePath": "images/products/deodorant.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\deodorant.png"
+    },
+    {
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\detergent.png",
+      "SourceId": "ShoppingList",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/detergent.png",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\detergent.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\dining.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\dining.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/dining.png",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\dining.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\double-bed.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\double-bed.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/double-bed.png",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\double-bed.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\egg.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\egg.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/egg.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\egg.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\eraser.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\eraser.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/eraser.png",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\eraser.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\grapes.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\grapes.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/grapes.png",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\grapes.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\jacket.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\jacket.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/jacket.png",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\milk.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\milk.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/milk.png",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\milk.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\mobilephone_79875.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\mobilephone_79875.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/mobilephone_79875.png",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\mobilephone_79875.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\notebook.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\notebook.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/notebook.png",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\notebook.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\onion.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\onion.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/onion.png",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\onion.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pant.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pant.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/pant.png",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\pant.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pasta.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pasta.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/pasta.png",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\pasta.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pencil.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pencil.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/pencil.png",
       "AssetKind": "All",
@@ -527,10 +544,27 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\pencil.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\shirt.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shampoo.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
+      "BasePath": "_content/ShoppingList",
+      "RelativePath": "images/products/shampoo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\shampoo.png"
+    },
+    {
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shirt.png",
+      "SourceId": "ShoppingList",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/shirt.png",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shirt.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\shoe.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shoe.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/shoe.png",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\shoe.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\soap.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\soap.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/soap.png",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\soap.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\softener.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\softener.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/softener.png",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\softener.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\table.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\table.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/table.png",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\table.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tablet.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tablet.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/tablet.png",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tablet.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tomato.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tomato.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/tomato.png",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tomato.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tshirt.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tshirt.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/tshirt.png",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\tshirt.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\usb-cable.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\usb-cable.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/usb-cable.png",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\usb-cable.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\vacuum.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\vacuum.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/vacuum.png",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\vacuum.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\water.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\water.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/water.png",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\water.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\watermelon.png",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\watermelon.png",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "images/products/watermelon.png",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\watermelon.png"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\addproduct.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\addproduct.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/addproduct.js",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\js\\addproduct.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\admin.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\admin.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/admin.js",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\js\\admin.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\adminlogin.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\adminlogin.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/adminlogin.js",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\js\\adminlogin.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\list.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\list.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/list.js",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\js\\list.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\login.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\login.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\product.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\product.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\register.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\register.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/register.js",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\register.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\site.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ShoppingList",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
       "BasePath": "_content/ShoppingList",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

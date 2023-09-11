@@ -1,427 +1,435 @@
 {
   "Files": [
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingList.bundle.scp.css",
       "PackagePath": "staticwebassets\\ShoppingList.bundle.scp.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminlogin.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminlogin.css",
       "PackagePath": "staticwebassets\\css\\adminlogin.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminpage.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminpage.css",
       "PackagePath": "staticwebassets\\css\\adminpage.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\adminwelcome.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\adminwelcome.css",
       "PackagePath": "staticwebassets\\css\\adminwelcome.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\login.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\register.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\register.css",
       "PackagePath": "staticwebassets\\css\\register.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\css\\site.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\favicon.ico",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\login\\register.jpg",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\login\\register.jpg",
       "PackagePath": "staticwebassets\\images\\login\\register.jpg"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\login\\shoppinglist.jpg",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\login\\shoppinglist.jpg",
       "PackagePath": "staticwebassets\\images\\login\\shoppinglist.jpg"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\armchair.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\armchair.png",
       "PackagePath": "staticwebassets\\images\\products\\armchair.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\bookshelf.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\bookshelf.png",
       "PackagePath": "staticwebassets\\images\\products\\bookshelf.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\bread.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\bread.png",
       "PackagePath": "staticwebassets\\images\\products\\bread.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\coffee-table.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\coffee-table.png",
       "PackagePath": "staticwebassets\\images\\products\\coffee-table.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\couch.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\couch.png",
       "PackagePath": "staticwebassets\\images\\products\\couch.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\detergent.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\deodorant.png",
+      "PackagePath": "staticwebassets\\images\\products\\deodorant.png"
+    },
+    {
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\detergent.png",
       "PackagePath": "staticwebassets\\images\\products\\detergent.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\dining.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\dining.png",
       "PackagePath": "staticwebassets\\images\\products\\dining.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\double-bed.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\double-bed.png",
       "PackagePath": "staticwebassets\\images\\products\\double-bed.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\egg.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\egg.png",
       "PackagePath": "staticwebassets\\images\\products\\egg.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\eraser.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\eraser.png",
       "PackagePath": "staticwebassets\\images\\products\\eraser.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\grapes.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\grapes.png",
       "PackagePath": "staticwebassets\\images\\products\\grapes.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\jacket.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\jacket.png",
       "PackagePath": "staticwebassets\\images\\products\\jacket.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\milk.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\milk.png",
       "PackagePath": "staticwebassets\\images\\products\\milk.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\mobilephone_79875.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\mobilephone_79875.png",
       "PackagePath": "staticwebassets\\images\\products\\mobilephone_79875.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\notebook.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\notebook.png",
       "PackagePath": "staticwebassets\\images\\products\\notebook.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\onion.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\onion.png",
       "PackagePath": "staticwebassets\\images\\products\\onion.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pant.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pant.png",
       "PackagePath": "staticwebassets\\images\\products\\pant.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pasta.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pasta.png",
       "PackagePath": "staticwebassets\\images\\products\\pasta.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\pencil.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pencil.png",
       "PackagePath": "staticwebassets\\images\\products\\pencil.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\shirt.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shampoo.png",
+      "PackagePath": "staticwebassets\\images\\products\\shampoo.png"
+    },
+    {
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shirt.png",
       "PackagePath": "staticwebassets\\images\\products\\shirt.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\shoe.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\shoe.png",
       "PackagePath": "staticwebassets\\images\\products\\shoe.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\soap.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\soap.png",
       "PackagePath": "staticwebassets\\images\\products\\soap.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\softener.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\softener.png",
       "PackagePath": "staticwebassets\\images\\products\\softener.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\table.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\table.png",
       "PackagePath": "staticwebassets\\images\\products\\table.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tablet.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tablet.png",
       "PackagePath": "staticwebassets\\images\\products\\tablet.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tomato.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tomato.png",
       "PackagePath": "staticwebassets\\images\\products\\tomato.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\tshirt.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\tshirt.png",
       "PackagePath": "staticwebassets\\images\\products\\tshirt.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\usb-cable.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\usb-cable.png",
       "PackagePath": "staticwebassets\\images\\products\\usb-cable.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\vacuum.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\vacuum.png",
       "PackagePath": "staticwebassets\\images\\products\\vacuum.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\water.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\water.png",
       "PackagePath": "staticwebassets\\images\\products\\water.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\images\\products\\watermelon.png",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\watermelon.png",
       "PackagePath": "staticwebassets\\images\\products\\watermelon.png"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\addproduct.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\addproduct.js",
       "PackagePath": "staticwebassets\\js\\addproduct.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\admin.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\admin.js",
       "PackagePath": "staticwebassets\\js\\admin.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\adminlogin.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\adminlogin.js",
       "PackagePath": "staticwebassets\\js\\adminlogin.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\list.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\list.js",
       "PackagePath": "staticwebassets\\js\\list.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\login.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\product.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\register.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\register.js",
       "PackagePath": "staticwebassets\\js\\register.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\js\\site.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Codding\\Programming\\.net\\ShoppingList\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
