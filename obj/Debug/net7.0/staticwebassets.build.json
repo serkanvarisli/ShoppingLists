@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yPjMuAT+IqvM+KWj3HDlCGh3NI7oMHXjWfVAatpnu7Q=",
+  "Hash": "XEqOyf8Y6plT1WaWMmcfIGatRn3vXcLu9SfK0qkldtk=",
   "Source": "ShoppingList",
   "BasePath": "_content/ShoppingList",
   "Mode": "Default",
@@ -423,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\jacket.png"
+    },
+    {
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\Memo fatura.jpg",
+      "SourceId": "ShoppingList",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
+      "BasePath": "_content/ShoppingList",
+      "RelativePath": "images/products/Memo fatura.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Memo fatura.jpg"
     },
     {
       "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\milk.png",

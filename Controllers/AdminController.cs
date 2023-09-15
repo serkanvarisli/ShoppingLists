@@ -147,7 +147,9 @@ namespace ShoppingList.Controllers
         }
         public IActionResult DeleteProduct(AdminAddFileViewModel adminEditFileViewModel)
         {
-            var productsToDelete = _context.Products.Where(p => p.ProductId == adminEditFileViewModel.ProductId).SingleOrDefault();
+            var productsToDelete = _context.Products
+                .Include(l=>l.ProductDetails)
+                .Where(p => p.ProductId == adminEditFileViewModel.ProductId).SingleOrDefault();
 
             if (productsToDelete == null)
             {
@@ -155,6 +157,7 @@ namespace ShoppingList.Controllers
             }
             else
             {
+                _context.ProductDetails.RemoveRange(productsToDelete.ProductDetails);
                 _context.Products.Remove(productsToDelete);
                 _context.SaveChanges();
                 return RedirectToAction("Product", "Admin");
