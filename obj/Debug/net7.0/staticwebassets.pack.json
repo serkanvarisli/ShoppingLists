@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\images\\products\\pant.png"
     },
     {
+      "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\parfume.png",
+      "PackagePath": "staticwebassets\\images\\products\\parfume.png"
+    },
+    {
       "Id": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pasta.png",
       "PackagePath": "staticwebassets\\images\\products\\pasta.png"
     },

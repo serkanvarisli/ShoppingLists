@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mnxo0nQY35s99hS8SM5Nfp4f8bglgVmB17giEIMd10U=",
+  "Hash": "yPjMuAT+IqvM+KWj3HDlCGh3NI7oMHXjWfVAatpnu7Q=",
   "Source": "ShoppingList",
   "BasePath": "_content/ShoppingList",
   "Mode": "Default",
@@ -508,6 +508,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\pant.png"
+    },
+    {
+      "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\parfume.png",
+      "SourceId": "ShoppingList",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\",
+      "BasePath": "_content/ShoppingList",
+      "RelativePath": "images/products/parfume.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\parfume.png"
     },
     {
       "Identity": "D:\\Codding\\Programming\\.net\\ShoppingListClone\\ShoppingList\\wwwroot\\images\\products\\pasta.png",

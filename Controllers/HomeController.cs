@@ -64,7 +64,7 @@ namespace ShoppingList.Controllers
         public IActionResult DeleteList(UserListsViewModel user)
         {
             var ListToDelete = _context.Lists
-                //.Include(l => l.ProductDetails)
+                .Include(l => l.ProductDetails)
                 .Where(p => p.ListId == user.ListId).SingleOrDefault();
 
             if (ListToDelete == null)
@@ -74,7 +74,7 @@ namespace ShoppingList.Controllers
             else
             {
                 //// Önce productDetail tablosundaki ilişkili kayıtları silin
-                //_context.ProductDetails.RemoveRange(ListToDelete.ProductDetails);
+                _context.ProductDetails.RemoveRange(ListToDelete.ProductDetails);
 
                 // Ardından ana listenin kaydını silin
                 _context.Lists.Remove(ListToDelete);

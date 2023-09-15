@@ -75,6 +75,7 @@ public partial class MyDbContext : DbContext
 
             entity.HasOne(d => d.List).WithMany(p => p.ProductDetails)
                 .HasForeignKey(d => d.ListId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_ProductDetail_List");
 
             entity.HasOne(d => d.Product).WithMany(p => p.ProductDetails)
