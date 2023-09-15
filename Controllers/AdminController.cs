@@ -203,7 +203,12 @@ namespace ShoppingList.Controllers
         }
         public IActionResult DeleteCategory(int categoryId)
         {
-            var category = _context.Categories.Find(categoryId); ;
+            var category = _context.Categories
+                .Include(c => c.Products)
+                .Where(c=>c.CategoryId==categoryId)
+                .SingleOrDefault();
+            _context.Products.RemoveRange(category.Products);
+
             _context.Categories.Remove(category);
             _context.SaveChanges();
             return RedirectToAction("Category", "Admin");
